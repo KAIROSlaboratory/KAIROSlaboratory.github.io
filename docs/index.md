@@ -1,4 +1,4 @@
-## KAIROS LAB's homepage
+## KAIROS LAB
 
 Bookmark this to keep an eye on our project updates!
 
