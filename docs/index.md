@@ -3,4 +3,4 @@
 Bookmark this to keep an eye on our project updates!
 
 <a href="https://
-kairoslaboratory.github.io/traversing-negative-obstacles/" title="Negative Obstacle Traversal">About Me</a>
+kairoslaboratory.github.io/traversing-negative-obstacles/" title="Negative Obstacle Traversal">Negative Obstacle Traversal</a>
