@@ -8,5 +8,4 @@ Bookmark this to keep an eye on our project updates!
                   onclick="window.open('https://kairoslaboratory.github.io/traversing-negative-obstacles/', '_blank')">
             Chat Kami
           </button>
-<a href="https://
-kairoslaboratory.github.io/traversing-negative-obstacles/" title="Negative Obstacle Traversal">Negative Obstacle Traversal</a>
+<a href="https://kairoslaboratory.github.io/traversing-negative-obstacles/" title="Negative Obstacle Traversal">Negative Obstacle Traversal</a>
